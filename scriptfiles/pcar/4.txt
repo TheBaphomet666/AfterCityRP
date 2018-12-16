@@ -1,0 +1,11 @@
+Owner=Alsakarim_Khalid
+vip=0
+model=481
+x=532.386535
+y=-1287.491821
+z=16.739105
+rot=272.312500
+col1=0
+col2=0
+time=1
+ID=241

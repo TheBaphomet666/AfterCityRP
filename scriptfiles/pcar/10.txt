@@ -1,0 +1,11 @@
+Owner=Kevin_Chacon
+vip=0
+model=468
+x=826.938598
+y=-861.213256
+z=69.596252
+rot=249.913604
+col1=3
+col2=0
+time=1
+ID=247

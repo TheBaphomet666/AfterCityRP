@@ -1,0 +1,11 @@
+Owner=Victoria_Robles
+vip=1
+model=429
+x=1248.832763
+y=-803.170288
+z=83.820266
+rot=180.223815
+col1=0
+col2=0
+time=1
+ID=245

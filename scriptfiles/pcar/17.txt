@@ -1,0 +1,11 @@
+Owner=Nick_Vasquez
+vip=1
+model=462
+x=532.748046
+y=-1288.294189
+z=18.651325
+rot=275.221405
+col1=0
+col2=0
+time=1
+ID=254

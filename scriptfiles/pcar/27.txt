@@ -1,0 +1,11 @@
+Owner=Luciano_Moreno
+vip=0
+model=445
+x=531.183959
+y=-1287.557861
+z=17.728042
+rot=279.252838
+col1=0
+col2=0
+time=1
+ID=264

@@ -1,0 +1,778 @@
+[2012/8/29 - 16:25:23] AdmWarn: Westen has created business ID 4.
+[2012/8/29 - 16:25:34] AdmWarn: Westen has set business ID 4's price to $1.
+[2012/8/29 - 16:25:41] AdmWarn: Westen has set business ID 4's level to 5.
+[2012/8/29 - 16:25:48] AdmWarn: Westen has set business ID 4's products to 1.
+[2012/8/29 - 16:25:50] AdmWarn: Westen has set business ID 4's products to 1410065407.
+[2012/8/29 - 16:25:55] Westen has bought business id 4.
+[2012/10/7 - 20:58:48] AdmWarn: Perverse has created business ID 1.
+[2012/10/7 - 20:59:3] AdmWarn: Perverse has changed business ID 1's location.
+[2012/10/7 - 20:59:9] AdmWarn: Perverse has changed business ID 1's location.
+[2012/10/7 - 20:59:14] AdmWarn: Perverse has set business ID 1's price to $0.
+[2012/10/7 - 20:59:19] AdmWarn: Perverse has set business ID 1's level to 5.
+[2012/10/7 - 20:59:25] AdmWarn: Perverse has set business ID 1's vault money to $999999999.
+[2012/10/7 - 20:59:32] AdmWarn: Perverse has set business ID 1's products to 999999999.
+[2012/10/7 - 20:59:46] Jeffrey Loc has bought business id 1.
+[2012/10/8 - 2:38:56] AdmWarn: Roland has created business ID 2.
+[2012/10/8 - 2:39:46] AdmWarn: Roland has set business ID 2's price to $0.
+[2012/10/8 - 2:39:49] Roland has bought business id 2.
+[2012/10/8 - 2:42:54] AdmWarn: Roland has set business ID 2's products to 100000.
+[2012/10/8 - 6:51:30] AdmWarn: Roland has changed business ID 2's location.
+[2012/10/8 - 6:51:44] Roland has sold business id 2 to the market.
+[2012/10/8 - 6:56:30] Roland Mission has bought business id 2.
+[2012/10/8 - 6:59:9] AdmWarn: Roland has created business ID 3.
+[2012/10/8 - 6:59:28] AdmWarn: Roland has set business ID 3's price to $0.
+[2012/10/8 - 6:59:39] AdmWarn: Roland has changed business ID 3's location.
+[2012/10/8 - 6:59:51] AdmWarn: Roland has set business ID 3's products to 100000.
+[2012/10/8 - 7:1:40] Roland Mission has bought business id 3.
+[2012/10/8 - 7:2:53] Roland Mission has sold business id 3 to the market.
+[2012/10/8 - 7:4:23] AdmWarn: Roland has deleted business ID 3.
+[2012/10/8 - 7:6:24] AdmWarn: Roland has created business ID 3.
+[2012/10/8 - 7:6:33] AdmWarn: Roland has set business ID 3's price to $0.
+[2012/10/8 - 7:6:42] AdmWarn: Roland has set business ID 3's level to 0.
+[2012/10/8 - 7:6:47] AdmWarn: Roland has set business ID 3's level to 5.
+[2012/10/8 - 7:7:0] AdmWarn: Roland has set business ID 3's products to 100000.
+[2012/10/8 - 7:7:14] AdmWarn: Roland has set business ID 2's level to 5.
+[2012/10/8 - 7:9:30] Roland Mission has bought business id 3.
+[2012/10/8 - 9:13:52] AdmWarn: Roland has created business ID 4.
+[2012/10/8 - 9:14:11] AdmWarn: Roland has set business ID 4's price to $0.
+[2012/10/8 - 9:14:14] Roland has bought business id 4.
+[2012/10/8 - 9:14:27] AdmWarn: Roland has set business ID 4's products to 1000000.
+[2012/10/8 - 9:14:42] AdmWarn: Roland has set business ID 4's level to 5.
+[2012/10/8 - 18:31:55] AdmWarn: Perverse has created business ID 5.
+[2012/10/8 - 18:32:2] AdmWarn: Perverse has set business ID 5's price to $0.
+[2012/10/8 - 18:32:7] AdmWarn: Perverse has set business ID 5's level to 5.
+[2012/10/8 - 18:32:15] AdmWarn: Perverse has set business ID 5's products to 1215752191.
+[2012/10/8 - 18:32:46] Jeffrey Loc has bought business id 5.
+[2012/10/9 - 18:47:42] AdmWarn: Roland has sold Roland's business. (ID 4)
+[2012/10/9 - 18:48:18] Alan Diesel has bought business id 4.
+[2012/10/9 - 21:38:1] AdmWarn: Perverse has created business ID 6.
+[2012/10/9 - 21:38:7] AdmWarn: Perverse has set business ID 6's price to $0.
+[2012/10/9 - 21:38:11] AdmWarn: Perverse has set business ID 6's level to 5.
+[2012/10/9 - 21:38:20] AdmWarn: Perverse has set business ID 6's products to 999999999.
+[2012/10/9 - 21:39:57] Alan Diesel has bought business id 6.
+[2012/10/9 - 21:40:43] AdmWarn: Perverse has set business ID 6's level to 1.
+[2012/10/9 - 21:40:54] AdmWarn: Perverse has set business ID 6's level to 2.
+[2012/10/9 - 21:41:17] AdmWarn: Perverse has deleted Alan_Diesel's business. (ID 6)
+[2012/10/10 - 19:46:50] AdmWarn: Roland has created business ID 6.
+[2012/10/10 - 19:47:1] AdmWarn: Roland has set business ID 6's price to $0.
+[2012/10/10 - 19:47:1] Timmy Leaf has bought business id 6.
+[2012/10/10 - 19:47:16] AdmWarn: Roland has set business ID 6's products to 1000000.
+[2012/10/10 - 19:47:58] AdmWarn: Roland has set business ID 6's level to 5.
+[2012/10/13 - 0:13:4] AdmWarn: Andrew has created business ID 7.
+[2012/10/13 - 0:13:52] AdmWarn: Andrew has set business ID 7's price to $1.
+[2012/10/13 - 0:14:5] AdmWarn: NouieMan has created business ID 8.
+[2012/10/13 - 0:14:17] AdmWarn: Andrew has set business ID 7's level to 1.
+[2012/10/13 - 0:14:24] AdmWarn: Andrew has set business ID 7's level to 5.
+[2012/10/13 - 0:14:26] AdmWarn: NouieMan has set business ID 8's price to $1.
+[2012/10/13 - 0:14:37] NouieMan has bought business id 8.
+[2012/10/13 - 0:14:50] Andrew has bought business id 7.
+[2012/10/13 - 0:15:15] AdmWarn: Andrew has set business ID 7's level to 2.
+[2012/10/13 - 0:15:35] AdmWarn: Andrew has set business ID 7's level to 3.
+[2012/10/13 - 0:16:2] AdmWarn: NouieMan has set business ID 8's level to 5.
+[2012/10/13 - 0:16:21] AdmWarn: NouieMan has set business ID 8's level to 4.
+[2012/10/13 - 0:16:27] AdmWarn: NouieMan has set business ID 8's level to 4.
+[2012/10/13 - 0:18:39] AdmWarn: NouieMan has set business ID 8's vault money to $50000.
+[2012/10/13 - 0:18:55] AdmWarn: NouieMan has set business ID 8's level to 1.
+[2012/10/13 - 0:19:14] AdmWarn: NouieMan has set business ID 8's level to 5.
+[2012/10/13 - 0:19:22] AdmWarn: NouieMan has set business ID 8's level to 5.
+[2012/10/13 - 16:32:40] NouieMan has sold business id 8 to the market.
+[2012/10/13 - 16:39:17] William Martinez has bought business id 8.
+[2012/10/13 - 18:34:45] AdmWarn: gmodder110 has created business ID 9.
+[2012/10/13 - 18:35:20] AdmWarn: gmodder110 has set business ID 9's price to $25000.
+[2012/10/13 - 18:35:34] AdmWarn: gmodder110 has set business ID 9's products to 10000.
+[2012/10/13 - 18:35:54] AdmWarn: gmodder110 has created business ID 10.
+[2012/10/13 - 18:36:14] AdmWarn: gmodder110 has set business ID 10's price to $250000.
+[2012/10/13 - 18:36:36] AdmWarn: gmodder110 has set business ID 9's price to $250000.
+[2012/10/13 - 18:36:54] AdmWarn: gmodder110 has created business ID 11.
+[2012/10/13 - 18:37:35] AdmWarn: gmodder110 has set business ID 11's price to $250000.
+[2012/10/13 - 18:37:45] AdmWarn: gmodder110 has set business ID 11's products to 10000.
+[2012/10/13 - 18:37:49] AdmWarn: gmodder110 has set business ID 11's products to 1000.
+[2012/10/13 - 18:37:55] AdmWarn: gmodder110 has set business ID 9's products to 1000.
+[2012/10/13 - 18:38:16] AdmWarn: gmodder110 has set business ID 10's products to 1000.
+[2012/10/13 - 21:35:34] AdmWarn: gmodder110 has created business ID 12.
+[2012/10/13 - 21:35:47] AdmWarn: gmodder110 has set business ID 12's price to $250000.
+[2012/10/13 - 21:36:15] AdmWarn: gmodder110 has created business ID 13.
+[2012/10/13 - 21:36:25] AdmWarn: gmodder110 has set business ID 13's price to $250000.
+[2012/10/13 - 22:0:24] AdmWarn: Roland has created business ID 14.
+[2012/10/13 - 22:0:29] AdmWarn: Roland has deleted business ID 14.
+[2012/10/13 - 22:0:35] AdmWarn: Roland has created business ID 14.
+[2012/10/13 - 22:0:54] AdmWarn: Roland has deleted business ID 14.
+[2012/10/14 - 15:4:52] AdmWarn: NouieMan has set business ID 8's products to 5000.
+[2012/11/18 - 15:34:9] AdmWarn: Josh Cave has created business ID 1.
+[2012/11/18 - 15:34:23] AdmWarn: Josh Cave has set business ID 1's price to $10000.
+[2012/11/18 - 15:34:33] AdmWarn: Josh Cave has set business ID 1's products to 10000.
+[2012/11/18 - 15:34:40] Josh Cave has bought business id 1.
+[2012/11/18 - 17:5:7] AdmWarn: Alek Yevtushenko has created business ID 2.
+[2012/11/18 - 17:5:57] AdmWarn: Alek Yevtushenko has set business ID 2's price to $1.
+[2012/11/18 - 17:6:6] Alek Yevtushenko has bought business id 2.
+[2012/11/18 - 17:7:40] AdmWarn: Alek Yevtushenko has sold Alek_Yevtushenko's business. (ID 2)
+[2012/11/19 - 11:52:14] AdmWarn: Josh Cave has created business ID 3.
+[2012/11/19 - 11:52:20] AdmWarn: Josh Cave has created business ID 4.
+[2012/11/19 - 11:52:32] AdmWarn: Josh Cave has set business ID 4's price to $10000.
+[2012/11/19 - 11:52:36] AdmWarn: Josh Cave has set business ID 3's price to $10000.
+[2012/11/19 - 11:52:49] AdmWarn: Josh Cave has created business ID 5.
+[2012/11/19 - 11:53:0] AdmWarn: Josh Cave has set business ID 5's price to $25000.
+[2012/11/19 - 11:53:17] AdmWarn: Josh Cave has created business ID 6.
+[2012/11/19 - 11:53:23] AdmWarn: Josh Cave has set business ID 5's price to $100000.
+[2012/11/19 - 11:53:33] AdmWarn: Josh Cave has set business ID 5's price to $15000.
+[2012/11/19 - 11:53:39] AdmWarn: Josh Cave has set business ID 6's price to $1000000.
+[2012/11/19 - 11:53:46] Josh Cave has bought business id 3.
+[2012/11/19 - 11:54:42] AdmWarn: Josh Cave has set business ID 3's products to 1000.
+[2012/11/19 - 20:47:50] AdmWarn: Josh Cave has sold Josh_Cave's business. (ID 3)
+[2012/11/22 - 7:36:38] AdmWarn: Josh Cave has set business ID 6's price to $100000.
+[2012/11/22 - 7:37:2] AdmWarn: Josh Cave has created business ID 7.
+[2012/11/22 - 7:37:19] AdmWarn: Josh Cave has set business ID 7's price to $20000.
+[2012/11/22 - 7:37:35] AdmWarn: Josh Cave has created business ID 8.
+[2012/11/22 - 7:37:41] AdmWarn: Josh Cave has created business ID 9.
+[2012/11/22 - 7:37:56] AdmWarn: Josh Cave has set business ID 9's price to $10000.
+[2012/11/22 - 7:37:59] AdmWarn: Josh Cave has set business ID 8's price to $10000.
+[2012/11/25 - 19:14:23] Jim Corrigan has bought business id 4.
+[2012/11/28 - 18:43:52] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:3] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:13] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:26] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:29] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:44] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:46] AdmWarn: Josh Cave has changed business ID 3's location.
+[2012/11/28 - 18:44:53] AdmWarn: Josh Cave has changed business ID 4's location.
+[2012/11/28 - 18:44:55] AdmWarn: Josh Cave has changed business ID 4's location.
+[2012/11/28 - 18:45:0] AdmWarn: Josh Cave has changed business ID 6's location.
+[2012/11/28 - 18:45:3] AdmWarn: Josh Cave has changed business ID 6's location.
+[2012/11/28 - 18:45:7] AdmWarn: Josh Cave has changed business ID 5's location.
+[2012/11/28 - 18:45:9] AdmWarn: Josh Cave has changed business ID 5's location.
+[2012/12/3 - 7:59:9] Casey Ryback has bought business id 2.
+[2012/12/3 - 16:47:39] William Mary has bought business id 9.
+[2012/12/15 - 17:39:22] Andreas Constantinou has bought business id 8.
+[2012/12/15 - 17:42:43] Andreas Constantinou has sold business id 8 to the market.
+[2012/12/15 - 17:43:14] Andreas Constantinou has bought business id 7.
+[2012/12/15 - 18:6:58] Alvino Zavala has bought business id 5.
+[2012/12/20 - 8:55:56] Casey Ryback has sold business id 2 to the market.
+[2012/12/20 - 14:54:1] AdmWarn: Katie Castillo has created business ID 10.
+[2012/12/20 - 14:54:22] AdmWarn: Katie Castillo has set business ID 10's price to $1.
+[2012/12/20 - 14:54:28] Katie Castillo has bought business id 10.
+[2012/12/20 - 14:55:18] AdmWarn: Katie Castillo has set business ID 10's products to 1000.
+[2012/12/20 - 17:0:9] AdmWarn: Katie Castillo has created business ID 11.
+[2012/12/20 - 17:0:48] AdmWarn: Katie Castillo has set business ID 11's price to $1.
+[2012/12/20 - 17:0:51] Katie Castillo has bought business id 11.
+[2012/12/20 - 17:1:41] AdmWarn: Katie Castillo has set business ID 11's products to 200000.
+[2012/12/20 - 17:3:2] AdmWarn: Katie Castillo has set business ID 11's level to 5.
+[2012/12/20 - 18:56:44] Norman Jayden has bought business id 6.
+[2012/12/20 - 18:58:26] Norman Jayden has sold business id 6 to the market.
+[2012/12/20 - 18:59:1] Sergey Petrov has bought business id 6.
+[2012/12/20 - 20:19:7] Natalie Severin has bought business id 2.
+[2012/12/21 - 2:13:59] Steven Colt has bought business id 8.
+[2012/12/21 - 8:27:13] AdmWarn: Alvino Zavala has changed business ID 5's location.
+[2012/12/21 - 9:1:14] AdmWarn: Alvino Zavala has created business ID 12.
+[2012/12/21 - 9:1:33] AdmWarn: Alvino Zavala has set business ID 12's price to $10000.
+[2012/12/21 - 9:1:37] Alvino Zavala has bought business id 12.
+[2012/12/21 - 9:3:13] AdmWarn: Alvino Zavala has created business ID 13.
+[2012/12/21 - 9:3:32] AdmWarn: Alvino Zavala has set business ID 13's price to $50000.
+[2012/12/22 - 18:53:0] DeAndre Moore has bought business id 13.
+[2012/12/22 - 18:53:42] DeAndre Moore has sold business id 13 to the market.
+[2012/12/28 - 14:42:24] AdmWarn: Katie Tabanov has sold Alvino_Zavala's business. (ID 5)
+[2012/12/28 - 14:43:27] Katie Tabanov has sold business id 11 to the market.
+[2012/12/28 - 14:44:22] Katie Tabanov has bought business id 5.
+[2012/12/28 - 14:46:53] AdmWarn: Katie Tabanov has set business ID 5's level to 5.
+[2012/12/28 - 14:47:15] AdmWarn: Katie Tabanov has set business ID 5's products to 50000.
+[2012/12/28 - 16:27:55] AdmWarn: Alek Yevtushenko has set business ID 2's level to 5.
+[2012/12/29 - 13:17:15] Katya Yevtushenko has bought business id 13.
+[2012/12/29 - 13:26:42] AdmWarn: Josh Cave has set business ID 3's level to 5.
+[2012/12/29 - 14:5:14] AdmWarn: Alexander Greco has set business ID 2's level to 5.
+[2012/12/29 - 20:38:16] AdmWarn: Alexander Greco has created business ID 14.
+[2012/12/29 - 20:38:28] AdmWarn: Alexander Greco has set business ID 14's price to $1.
+[2012/12/29 - 20:38:32] Joseph Capone has bought business id 14.
+[2012/12/29 - 20:40:43] AdmWarn: Alexander Greco has set business ID 14's level to 5.
+[2012/12/31 - 8:24:58] AdmWarn: Josh Cave has created business ID 15.
+[2012/12/31 - 8:25:6] AdmWarn: Josh Cave has set business ID 15's price to $10000.
+[2012/12/31 - 8:25:15] AdmWarn: Josh Cave has set business ID 15's products to 1000.
+[2012/12/31 - 8:25:21] AdmWarn: Josh Cave has set business ID 15's level to 4.
+[2012/12/31 - 8:25:23] AdmWarn: Josh Cave has set business ID 15's level to 5.
+[2012/12/31 - 8:26:50] AdmWarn: Josh Cave has created business ID 16.
+[2012/12/31 - 8:26:59] AdmWarn: Josh Cave has set business ID 16's price to $10000.
+[2012/12/31 - 8:27:7] AdmWarn: Josh Cave has set business ID 15's products to 1000.
+[2012/12/31 - 8:27:13] AdmWarn: Josh Cave has set business ID 15's level to 5.
+[2013/1/1 - 13:1:5] AdmWarn: Josh Cave has sold Joseph_Capone's business. (ID 14)
+[2013/1/1 - 13:1:8] AdmWarn: Josh Cave has deleted business ID 14.
+[2013/1/1 - 17:27:48] DeAndre Moore has bought business id 11.
+[2013/1/26 - 19:7:12] AdmWarn: Josh Cave has created business ID 14.
+[2013/1/26 - 19:7:18] AdmWarn: Josh Cave has deleted business ID 14.
+[2013/1/29 - 1:5:9] Steven Colt has sold business id 8 to the market.
+[2013/1/29 - 1:57:21] AdmWarn: Steven Colt has created business ID 14.
+[2013/1/29 - 1:57:39] AdmWarn: Steven Colt has deleted business ID 14.
+[2013/1/29 - 1:58:54] AdmWarn: Steven Colt has sold Natalie_Severin's business. (ID 2)
+[2013/1/29 - 1:59:4] Steven Colt has bought business id 2.
+[2013/1/30 - 19:5:27] AdmWarn: Josh Cave has deleted Sergey_Petrov's business. (ID 6)
+[2013/1/30 - 19:5:28] AdmWarn: Josh Cave has deleted Josh_Cave's business. (ID 3)
+[2013/1/30 - 19:5:29] AdmWarn: Josh Cave has deleted Jim_Corrigan's business. (ID 4)
+[2013/1/31 - 12:14:43] AdmWarn: Alexander Greco has set business ID 12's products to 10000.
+[2013/2/6 - 2:39:46] AdmWarn: Steven Colt has created business ID 3.
+[2013/2/7 - 0:18:59] AdmWarn: Steven Colt has deleted business ID 3.
+[2013/2/10 - 7:59:21] Adam West has bought business id 15.
+[2013/3/9 - 18:24:34] Billy Gonzales has bought business id 8.
+[2013/3/9 - 18:33:43] AdmWarn: John Cormier has created business ID 3.
+[2013/3/9 - 18:33:49] John Cormier has bought business id 3.
+[2013/3/9 - 18:34:35] AdmWarn: John Cormier has set business ID 3's products to 1000.
+[2013/3/9 - 18:34:57] AdmWarn: John Cormier has set business ID 3's products to 1000000.
+[2013/3/9 - 18:35:12] AdmWarn: John Cormier has set business ID 3's level to 5.
+[2013/3/22 - 22:16:5] Billy Gonzales has bought business id 16.
+[2013/3/22 - 22:53:28] AdmWarn: Billy Gonzales has created business ID 3.
+[2013/3/22 - 22:54:9] AdmWarn: Billy Gonzales has set business ID 3's price to $1.
+[2013/3/22 - 22:54:11] John Apollon has bought business id 3.
+[2013/3/23 - 11:18:11] AdmWarn: Billy Gonzales has created business ID 4.
+[2013/3/23 - 11:18:16] Billy Gonzales has bought business id 4.
+[2013/3/23 - 15:45:9] AdmWarn: John Cormier has sold Alvino_Zavala's business. (ID 12)
+[2013/3/23 - 15:45:12] John Cormier has bought business id 12.
+[2017/6/23 - 1:12:14] AdmWarn: Giovanni Salvatore has created business ID 1.
+[2017/6/23 - 1:13:0] AdmWarn: Giovanni Salvatore has set business ID 1's price to $50000.
+[2017/6/23 - 1:13:16] AdmWarn: Giovanni Salvatore has set business ID 1's level to 5.
+[2017/6/23 - 1:13:54] Giovanni Salvatore has bought business id 1.
+[2017/6/23 - 1:29:39] AdmWarn: Giovanni Salvatore has created business ID 2.
+[2017/6/23 - 1:30:7] AdmWarn: Giovanni Salvatore has set business ID 2's price to $50000.
+[2017/6/23 - 1:30:21] AdmWarn: Giovanni Salvatore has created business ID 3.
+[2017/6/23 - 1:30:44] AdmWarn: Giovanni Salvatore has set business ID 3's price to $50000.
+[2017/6/23 - 1:31:18] Giovanni Salvatore has sold business id 1 to the market.
+[2017/6/23 - 1:32:20] AdmWarn: Giovanni Salvatore has set business ID 1's products to 5000.
+[2017/6/23 - 1:32:33] AdmWarn: Giovanni Salvatore has set business ID 1's vault money to $0.
+[2017/6/23 - 1:32:51] Giovanni Salvatore has bought business id 2.
+[2017/6/23 - 1:33:32] AdmWarn: Giovanni Salvatore has set business ID 2's products to 5000.
+[2017/6/23 - 1:48:11] Giovanni Salvatore has sold business id 2 to the market.
+[2017/6/23 - 1:48:20] Giovanni Salvatore has bought business id 3.
+[2017/6/23 - 1:48:47] AdmWarn: Giovanni Salvatore has set business ID 3's products to 5000.
+[2017/6/25 - 1:45:6] AdmWarn: Giovanni Salvatore has created business ID 1.
+[2017/6/25 - 1:45:15] Giovanni Salvatore has bought business id 1.
+[2017/6/25 - 2:16:59] AdmWarn: Giovanni Salvatore ha creado el negocio ID 1.
+[2017/6/25 - 2:17:17] AdmWarn: Giovanni Salvatore has changed business ID 1's location.
+[2017/6/25 - 2:17:24] AdmWarn: Giovanni Salvatore has changed business ID 1's location.
+[2017/6/25 - 2:17:54] Giovanni Salvatore has bought business id 1.
+[2017/6/25 - 16:30:14] AdmWarn: Giovanni Salvatore ha creado el negocio ID 2.
+[2017/6/25 - 16:30:30] AdmWarn: Giovanni Salvatore has changed business ID 1's location.
+[2017/6/25 - 16:30:35] AdmWarn: Giovanni Salvatore has changed business ID 1's location.
+[2017/6/25 - 16:31:4] AdmWarn: Giovanni Salvatore has deleted Giovanni_Salvatore's business. (ID 1)
+[2017/6/25 - 16:31:5] AdmWarn: Giovanni Salvatore has deleted business ID 2.
+[2017/6/25 - 16:31:13] AdmWarn: Giovanni Salvatore ha creado el negocio ID 1.
+[2017/6/25 - 16:31:27] AdmWarn: Giovanni Salvatore has changed business ID 1's location.
+[2017/6/25 - 16:31:29] AdmWarn: Giovanni Salvatore has changed business ID 1's location.
+[2017/6/25 - 16:31:52] AdmWarn: Giovanni Salvatore has set business ID 1's products to 5000.
+[2017/6/25 - 16:31:54] Giovanni Salvatore has bought business id 1.
+[2017/7/9 - 17:16:17] AdmWarn: Oscar Pinto ha creado el negocio ID 2.
+[2017/7/10 - 21:10:59] AdmWarn: Oscar Pinto ha creado el negocio ID 2.
+[2017/7/10 - 21:11:6] Oscar Pinto has bought business id 2.
+[2017/7/10 - 21:25:12] AdmWarn: Oscar Pinto ha creado el negocio ID 3.
+[2017/7/10 - 21:56:14] Oscar Pinto has bought business id 3.
+[2017/7/10 - 21:57:14] AdmWarn: Oscar Pinto has deleted Oscar_Pinto's business. (ID 2)
+[2017/7/10 - 21:57:17] AdmWarn: Oscar Pinto has deleted Oscar_Pinto's business. (ID 3)
+[2017/7/10 - 21:58:9] AdmWarn: Oscar Pinto ha creado el negocio ID 2.
+[2017/7/10 - 21:58:29] AdmWarn: Oscar Pinto has deleted business ID 2.
+[2017/7/11 - 0:29:53] AdmWarn: Giovanni Salvatore ha creado el negocio ID 4.
+[2017/7/11 - 0:46:27] AdmWarn: Giovanni Salvatore ha creado el negocio ID 4.
+[2017/7/11 - 0:46:52] AdmWarn: Giovanni Salvatore has deleted business ID 4.
+[2017/7/11 - 0:47:14] AdmWarn: Sofia Robles ha creado el negocio ID 4.
+[2017/7/11 - 0:49:33] AdmWarn: Giovanni Salvatore has changed business ID 4's location.
+[2017/7/11 - 0:49:38] AdmWarn: Giovanni Salvatore has changed business ID 4's location.
+[2017/7/11 - 18:26:58] AdmWarn: Oscar Pinto has deleted Oscar_Pinto's business. (ID 2)
+[2017/7/11 - 23:19:31] AdmWarn: Oscar Pinto has sold Oscar_Pinto's business. (ID 2)
+[2017/7/11 - 23:19:54] AdmWarn: Oscar Pinto has sold Giovanni_Salvatore's business. (ID 1)
+[2017/7/11 - 23:20:4] AdmWarn: Oscar Pinto has sold Oscar_Pinto's business. (ID 3)
+[2017/7/11 - 23:20:28] AdmWarn: Oscar Pinto has deleted business ID 3.
+[2017/7/12 - 12:13:21] AdmWarn: Sofia Robles ha creado el negocio ID 3.
+[2017/7/12 - 12:15:25] AdmWarn: Sofia Robles ha creado el negocio ID 5.
+[2017/7/12 - 12:16:49] AdmWarn: Sofia Robles has set business ID 5's price to $50000.
+[2017/7/12 - 12:20:29] AdmWarn: Sofia Robles ha creado el negocio ID 6.
+[2017/7/12 - 13:32:42] AdmWarn: Oscar Pinto has set business ID 1's level to 2.
+[2017/7/12 - 13:32:50] AdmWarn: Oscar Pinto has set business ID 1's level to 3.
+[2017/7/12 - 13:32:59] AdmWarn: Oscar Pinto has set business ID 1's level to 5.
+[2017/7/12 - 13:33:7] AdmWarn: Oscar Pinto has set business ID 1's level to 0.
+[2017/7/12 - 13:33:19] AdmWarn: Oscar Pinto has set business ID 1's level to 1.
+[2017/7/12 - 13:33:37] AdmWarn: Oscar Pinto has set business ID 1's vault money to $10.
+[2017/7/12 - 13:33:43] AdmWarn: Oscar Pinto has set business ID 1's vault money to $0.
+[2017/7/12 - 13:33:53] AdmWarn: Oscar Pinto has set business ID 1's products to 10000.
+[2017/7/12 - 13:36:18] AdmWarn: Oscar Pinto has set business ID 3's level to 5.
+[2017/7/12 - 13:36:40] Oscar Pinto has bought business id 3.
+[2017/7/12 - 13:37:10] AdmWarn: Oscar Pinto has set business ID 3's level to 2.
+[2017/7/12 - 13:37:21] AdmWarn: Oscar Pinto has set business ID 3's level to 5.
+[2017/7/12 - 13:37:58] Oscar Pinto has sold business id 3 to the market.
+[2017/7/12 - 13:51:43] AdmWarn: Victoria Robles ha creado el negocio ID 7.
+[2017/7/12 - 14:17:51] AdmWarn: Victoria Robles ha creado el negocio ID 8.
+[2017/7/12 - 18:43:57] AdmWarn: Oscar Pinto ha creado el negocio ID 9.
+[2017/7/12 - 18:47:11] AdmWarn: Oscar Pinto ha creado el negocio ID 10.
+[2017/7/12 - 19:42:24] AdmWarn: Victoria Robles ha creado el negocio ID 11.
+[2017/7/12 - 19:45:22] AdmWarn: Victoria Robles ha creado el negocio ID 12.
+[2017/7/12 - 19:51:13] AdmWarn: Victoria Robles ha creado el negocio ID 13.
+[2017/7/12 - 19:54:32] AdmWarn: Victoria Robles ha creado el negocio ID 14.
+[2017/7/12 - 19:56:17] AdmWarn: Victoria Robles ha creado el negocio ID 15.
+[2017/7/13 - 12:49:4] AdmWarn: Oscar Pinto ha creado el negocio ID 13.
+[2017/7/13 - 12:49:22] Oscar Pinto has bought business id 13.
+[2017/7/13 - 13:21:20] AdmWarn: Oscar Pinto has sold Oscar_Pinto's business. (ID 13)
+[2017/7/13 - 21:50:47] AdmWarn: Victoria Robles ha creado el negocio ID 14.
+[2017/7/13 - 21:52:11] AdmWarn: Victoria Robles ha creado el negocio ID 15.
+[2017/7/13 - 21:53:5] AdmWarn: Victoria Robles ha creado el negocio ID 16.
+[2017/7/13 - 21:55:37] AdmWarn: Victoria Robles ha creado el negocio ID 17.
+[2017/7/13 - 22:4:30] AdmWarn: Victoria Robles ha creado el negocio ID 18.
+[2017/7/13 - 22:5:32] AdmWarn: Victoria Robles ha creado el negocio ID 19.
+[2017/7/13 - 22:11:36] AdmWarn: Victoria Robles ha creado el negocio ID 20.
+[2017/7/13 - 22:28:21] AdmWarn: Victoria Robles ha creado el negocio ID 21.
+[2017/7/13 - 22:32:31] AdmWarn: Victoria Robles ha creado el negocio ID 22.
+[2017/7/13 - 23:30:17] AdmWarn: Bot Admin ha creado el negocio ID 23.
+[2017/7/13 - 23:45:43] Bot Admin has bought business id 6.
+[2017/7/14 - 0:11:5] Bot Admin has bought business id 7.
+[2017/7/14 - 0:18:3] Bot Admin has bought business id 14.
+[2017/7/14 - 0:18:24] Bot Admin has sold business id 14 to the market.
+[2017/7/31 - 10:11:7] AdmWarn: Oscar Pinto has sold Oscar_Pinto's business. (ID 3)
+[2017/7/31 - 10:11:51] Oscar Pinto compro el negocio ID: 3.
+[2017/8/1 - 0:51:59] AdmWarn: Francis Drake ha creado el negocio ID 24.
+[2017/8/1 - 0:52:42] AdmWarn: Francis Drake has set business ID 24's price to $75000.
+[2017/8/1 - 0:55:49] AdmWarn: Francis Drake ha creado el negocio ID 25.
+[2017/8/1 - 0:56:22] AdmWarn: Francis Drake has set business ID 25's price to $80000.
+[2017/8/1 - 0:58:8] AdmWarn: Francis Drake ha creado el negocio ID 26.
+[2017/8/1 - 0:58:40] AdmWarn: Francis Drake has set business ID 26's price to $1.
+[2017/8/1 - 1:0:39] Oscar Pinto compro el negocio ID: 26.
+[2017/8/1 - 1:1:59] AdmWarn: Oscar Pinto has sold Oscar_Pinto's business. (ID 26)
+[2017/8/1 - 1:2:24] AdmWarn: Oscar Pinto has deleted business ID 26.
+[2017/8/1 - 1:40:53] AdmWarn: Francis Drake ha creado el negocio ID 26.
+[2017/8/1 - 1:41:27] AdmWarn: Francis Drake has set business ID 26's price to $95000.
+[2017/8/1 - 1:42:1] AdmWarn: Francis Drake ha creado el negocio ID 27.
+[2017/8/1 - 1:42:24] AdmWarn: Francis Drake has set business ID 27's price to $70000.
+[2017/8/1 - 1:42:36] AdmWarn: Francis Drake ha creado el negocio ID 28.
+[2017/8/1 - 1:42:51] AdmWarn: Francis Drake has set business ID 28's price to $85000.
+[2017/8/1 - 1:46:38] AdmWarn: Francis Drake ha creado el negocio ID 29.
+[2017/8/1 - 1:46:49] AdmWarn: Francis Drake has set business ID 29's price to $90000.
+[2017/8/1 - 1:47:7] AdmWarn: Francis Drake ha creado el negocio ID 30.
+[2017/8/1 - 1:47:15] AdmWarn: Francis Drake has set business ID 30's price to $75000.
+[2017/8/1 - 1:59:31] AdmWarn: Francis Drake ha creado el negocio ID 31.
+[2017/8/1 - 1:59:54] AdmWarn: Francis Drake has set business ID 31's price to $70000.
+[2017/8/1 - 2:0:23] AdmWarn: Francis Drake has deleted business ID 31.
+[2017/8/1 - 2:0:42] AdmWarn: Francis Drake ha creado el negocio ID 31.
+[2017/8/1 - 2:0:50] AdmWarn: Francis Drake has set business ID 31's price to $80000.
+[2017/8/1 - 2:1:9] AdmWarn: Francis Drake ha creado el negocio ID 32.
+[2017/8/1 - 2:1:19] AdmWarn: Francis Drake has set business ID 32's price to $75000.
+[2017/8/1 - 2:1:36] AdmWarn: Francis Drake ha creado el negocio ID 33.
+[2017/8/1 - 2:1:49] AdmWarn: Francis Drake has deleted business ID 33.
+[2017/8/1 - 2:1:54] AdmWarn: Francis Drake ha creado el negocio ID 33.
+[2017/8/1 - 2:2:1] AdmWarn: Francis Drake has set business ID 33's price to $85000.
+[2017/8/1 - 2:17:38] AdmWarn: Francis Drake ha creado el negocio ID 34.
+[2017/8/1 - 2:17:56] AdmWarn: Francis Drake has set business ID 34's price to $75000.
+[2017/8/1 - 4:19:45] AdmWarn: Francis Drake ha creado el negocio ID 35.
+[2017/8/1 - 4:20:3] AdmWarn: Francis Drake has set business ID 35's price to $95000.
+[2017/8/1 - 4:21:32] AdmWarn: Francis Drake ha creado el negocio ID 36.
+[2017/8/1 - 4:21:48] AdmWarn: Francis Drake has set business ID 36's price to $80000.
+[2017/8/1 - 21:5:22] El Estado compro el negocio ID: 1.
+[2017/8/2 - 3:28:42] AdmWarn: Oscar Pinto has sold El_Estado's business. (ID 1)
+[2017/8/5 - 13:41:7] Jhon Mustang compro el negocio ID: 5.
+[2017/8/5 - 13:41:41] AdmWarn: Jhon Mustang has sold Jhon_Mustang's business. (ID 5)
+[2017/8/5 - 13:42:8] Jhon Mustang compro el negocio ID: 5.
+[2017/8/5 - 14:4:59] AdmWarn: Jhon Mustang has sold Jhon_Mustang's business. (ID 3)
+[2017/8/5 - 14:5:55] AdmWarn: Jhon Mustang has sold Jhon_Mustang's business. (ID 5)
+[2017/8/5 - 14:6:3] Jhon Mustang compro el negocio ID: 2.
+[2017/8/5 - 16:31:44] AdmWarn: Jhon Mustang has sold Jhon_Mustang's business. (ID 5)
+[2017/8/5 - 16:31:55] AdmWarn: Jhon Mustang has sold Giovanni_Salvatore's business. (ID 7)
+[2017/8/5 - 16:41:14] El Estado compro el negocio ID: 1.
+[2017/8/5 - 16:42:11] AdmWarn: El Estado ha creado el negocio ID 37.
+[2017/8/5 - 16:42:19] El Estado compro el negocio ID: 37.
+[2017/8/5 - 20:2:7] AdmWarn: Jhon Mustang ha creado el negocio ID 37.
+[2017/8/5 - 20:2:12] Jhon Mustang compro el negocio ID: 37.
+[2017/8/6 - 18:27:15] Giovanni Salvatore compro el negocio ID: 2.
+[2017/8/7 - 2:4:34] AdmWarn: Oscar Pinto has sold Oscar_Pinto's business. (ID 37)
+[2017/8/7 - 2:4:56] Oscar Pinto compro el negocio ID: 1.
+[2017/8/7 - 2:43:1] Oscar Pinto compro el negocio ID: 37.
+[2017/8/7 - 6:52:17] AdmWarn: Oscar Pinto has sold Jhon_Mustang's business. (ID 5)
+[2017/8/7 - 6:52:23] Miguel Salvatore compro el negocio ID: 5.
+[2017/8/7 - 6:54:21] Miguel Salvatore compro el negocio ID: 25.
+[2017/8/7 - 6:56:59] Miguel Salvatore ha vendido el negocio ID: 25 a El Estado.
+[2017/8/7 - 6:57:13] Miguel Salvatore compro el negocio ID: 27.
+[2017/9/24 - 8:39:32] Miguel Salvatore compro el negocio ID: 23.
+[2017/9/24 - 8:40:31] Administración: Miguel Salvatore has set business ID 23's products to 100.
+[2017/9/24 - 8:40:40] Administración: Miguel Salvatore has set business ID 23's products to 200.
+[2017/9/24 - 17:24:37] Miguel Salvatore compro el negocio ID: 23.
+[2017/9/24 - 17:31:25] Administración: Miguel Salvatore has sold Oscar_Pinto's business. (ID 37)
+[2017/9/24 - 17:31:51] Miguel Salvatore ha vendido el negocio ID: 23 a El Estado.
+[2017/9/24 - 17:32:2] Miguel Salvatore compro el negocio ID: 37.
+[2017/9/24 - 18:19:23] Miguel Salvatore ha vendido el negocio ID: 37 a El Estado.
+[2017/9/24 - 18:19:33] Miguel Salvatore compro el negocio ID: 23.
+[2017/9/24 - 18:22:12] Administración: Miguel Salvatore has set business ID 23's products to 100.
+[2017/10/6 - 13:16:24] Administración: Miguel Salvatore ha creado el negocio ID 38.
+[2017/10/6 - 13:16:32] Miguel Salvatore compro el negocio ID: 38.
+[2017/10/6 - 18:34:48] Administración: Miguel Salvatore ha creado el negocio ID 38.
+[2017/10/6 - 18:34:59] Miguel Salvatore compro el negocio ID: 38.
+[2017/10/6 - 18:35:42] Administración: Miguel Salvatore ha creado el negocio ID 39.
+[2017/10/6 - 18:36:2] Miguel Salvatore ha vendido el negocio ID: 38 a El Estado.
+[2017/10/6 - 18:36:11] Miguel Salvatore compro el negocio ID: 39.
+[2017/10/6 - 18:36:31] Miguel Salvatore ha vendido el negocio ID: 39 a El Estado.
+[2017/10/10 - 22:0:38] Administración: Miguel Salvatore ha eliminado el negocio ID 39.
+[2017/10/10 - 22:0:55] Administración: Miguel Salvatore ha eliminado el negocio ID 38.
+[2017/10/10 - 22:1:11] Administración: Miguel Salvatore ha creado el negocio ID 38.
+[2017/10/10 - 22:1:19] Administración: Miguel Salvatore ha creado el negocio ID 39.
+[2017/10/10 - 22:1:32] Administración: Miguel Salvatore ha creado el negocio ID 40.
+[2017/10/10 - 22:1:42] Miguel Salvatore compro el negocio ID: 38.
+[2017/11/1 - 12:43:10] Administración: Miguel Salvatore ha vendido el negocio de Miguel_Salvatore. (ID 37)
+[2017/11/1 - 12:43:15] Miguel Salvatore compro el negocio ID: 37.
+[2017/11/1 - 12:45:16] Administración: Miguel Salvatore has set business ID 37's vault money to $100000.
+[2017/11/1 - 16:59:22] Administración: Miguel Salvatore ha creado el negocio ID 41.
+[2017/11/1 - 17:20:2] Miguel Salvatore ha vendido el negocio ID: 37 a El Estado.
+[2017/11/1 - 17:20:8] Miguel Salvatore compro el negocio ID: 37.
+[2017/11/1 - 18:8:1] Miguel Salvatore ha vendido el negocio ID: 37 a El Estado.
+[2017/11/1 - 18:8:9] Miguel Salvatore compro el negocio ID: 37.
+[2018/4/5 - 4:40:49] Administración: Oscar Pinto ha vendido el negocio de Giovanni_Salvatore. (ID 2)
+[2018/4/5 - 4:40:53] Administración: Oscar Pinto ha vendido el negocio de Oscar_Pinto. (ID 1)
+[2018/4/5 - 4:40:57] Administración: Oscar Pinto ha vendido el negocio de Oscar_Pinto. (ID 3)
+[2018/4/5 - 4:41:3] Administración: Oscar Pinto ha vendido el negocio de Miguel_Salvatore. (ID 5)
+[2018/4/5 - 4:41:7] Administración: Oscar Pinto ha vendido el negocio de Giovanni_Salvatore. (ID 7)
+[2018/4/5 - 5:10:58] Administración: Oscar Pinto ha establecido una ID de negocio 1 la puerta $0.
+[2018/4/5 - 5:11:12] Administración: Oscar Pinto ha establecido una ID de negocio 1 la puerta $1.
+[2018/4/5 - 23:20:7] Administración: Oscar Pinto ha establecido id. de negocio 27 productos a 5000.
+[2018/4/5 - 23:27:42] Kevin Chacon compro el negocio ID: 28.
+[2018/4/6 - 0:0:39] Administración: Oscar Pinto ha establecido una ID de negocio 37 la puerta $1.
+[2018/4/6 - 0:0:52] Administración: Oscar Pinto ha establecido id. de negocio 37 productos a 5000.
+[2018/4/6 - 0:1:8] Administración: Oscar Pinto ha vendido el negocio de Axel_Salvatore. (ID 37)
+[2018/4/6 - 0:1:14] Administración: Oscar Pinto ha establecido una ID de negocio 37 la puerta $1.
+[2018/4/6 - 0:43:1] Administración: Oscar Pinto ha eliminado el negocio ID 41.
+[2018/4/6 - 19:5:8] Administración: Oscar Pinto ha establecido una ID de negocio 34 la puerta $1.
+[2018/4/6 - 19:5:24] Administración: Oscar Pinto ha establecido id. de negocio 34 productos a 5000.
+[2018/4/6 - 19:57:39] Elian Rodriguez compro el negocio ID: 34.
+[2018/4/6 - 20:9:13] Administración: Oscar Pinto ha establecido id. de negocio 5 productos a 5000.
+[2018/4/7 - 0:25:21] Administración: Oscar Pinto ha creado el negocio ID 41.
+[2018/4/7 - 0:25:38] Administración: Oscar Pinto ha establecido una ID de negocio 41 la puerta $1.
+[2018/4/7 - 1:36:38] Administración: Oscar Pinto ha establecido una ID de negocio 35 la puerta $1.
+[2018/4/7 - 23:41:31] Administración: Oscar Pinto ha establecido una ID de negocio 3 la puerta $1.
+[2018/4/7 - 23:41:53] Administración: Oscar Pinto ha establecido id. de negocio 3 productos a 5000.
+[2018/4/8 - 2:1:21] Administración: Oscar Pinto ha establecido id. de negocio 41 productos a 5000.
+[2018/4/8 - 3:1:3] Administración: Oscar Pinto ha establecido id. de negocio 1 productos a 50000.
+[2018/4/8 - 18:26:27] Igor Spopovich compro el negocio ID: 41.
+[2018/4/8 - 20:50:21] Administración: Oscar Pinto ha vendido el negocio de Giovanni_Salvatore. (ID 2)
+[2018/4/8 - 20:50:42] Administración: Oscar Pinto ha establecido ID de negocio 2 precio a $600000.
+[2018/4/8 - 20:50:53] Administración: Oscar Pinto ha establecido id. de negocio 2 productos a 50000.
+[2018/4/8 - 20:50:59] Administración: Oscar Pinto ha establecido una ID de negocio 2 la puerta $1.
+[2018/4/8 - 22:32:43] Elias Chacon compro el negocio ID: 35.
+[2018/4/8 - 22:34:53] Oscar Pinto compro el negocio ID: 18.
+[2018/4/8 - 22:35:33] Oscar Pinto ha vendido el negocio ID: 18 a El Estado.
+[2018/4/9 - 14:24:16] Shady Adel compro el negocio ID: 29.
+[2018/4/9 - 14:30:52] Darwin Chacon compro el negocio ID: 32.
+[2018/4/10 - 20:41:24] Administración: Oscar Pinto ha establecido una ID de negocio 13 la puerta $1.
+[2018/4/10 - 20:41:32] Administración: Oscar Pinto ha establecido id. de negocio 13 productos a 500000.
+[2018/4/10 - 21:38:43] Administración: Oscar Pinto ha establecido una ID de negocio 19 la puerta $1.
+[2018/4/10 - 21:38:52] Administración: Oscar Pinto ha establecido id. de negocio 19 productos a 50000.
+[2018/4/10 - 23:26:43] Darwin Chacon ha vendido el negocio ID: 32 a El Estado.
+[2018/4/11 - 17:0:32] Brayan Osorio compro el negocio ID: 37.
+[2018/4/11 - 17:27:22] Administración: Oscar Pinto ha establecido una ID de negocio 37 bóveda de dinero para $0.
+[2018/4/11 - 17:27:32] Administración: Oscar Pinto ha establecido id. de negocio 37 productos a 0.
+[2018/4/12 - 1:1:39] Frenddys Martinez compro el negocio ID: 2.
+[2018/4/12 - 1:42:10] Administración: Oscar Pinto ha vendido el negocio de Oscar_Pinto. (ID 3)
+[2018/4/12 - 1:42:14] Oscar Pinto compro el negocio ID: 3.
+[2018/4/12 - 2:34:15] Administración: Miguel Salvatore ha establecido una ID de negocio 2 la puerta $1.
+[2018/4/12 - 3:11:53] Administración: Miguel Salvatore ha establecido una ID de negocio 2 bóveda de dinero para $0.
+[2018/4/13 - 0:10:37] Administración: Oscar Pinto ha establecido una ID de negocio 26 la puerta $1.
+[2018/4/14 - 17:5:58] Alsakarim Khalid compro el negocio ID: 25.
+[2018/4/14 - 23:11:12] Administración: Miguel Salvatore ha establecido una ID de negocio 2 la puerta $0.
+[2018/4/16 - 3:50:15] Igor Spopovich ha vendido el negocio ID: 41 a El Estado.
+[2018/4/17 - 5:1:25] Administración: Oscar Pinto ha eliminado el negocio ID 20.
+[2018/4/17 - 5:1:43] Administración: Oscar Pinto ha creado el negocio ID 20.
+[2018/4/17 - 5:2:40] Administración: Oscar Pinto ha eliminado el negocio ID 20.
+[2018/4/17 - 5:2:54] Administración: Oscar Pinto ha creado el negocio ID 20.
+[2018/4/17 - 5:3:2] Elizabeth Spopovich compro el negocio ID: 20.
+[2018/4/17 - 15:33:12] Administración: Oscar Pinto ha vendido el negocio de Alsakarim_Khalid. (ID 25)
+[2018/4/17 - 15:33:31] Administración: Oscar Pinto ha establecido ID de negocio 25 precio a $1.
+[2018/4/17 - 15:33:41] Charlotte Spopovich compro el negocio ID: 25.
+[2018/4/18 - 4:38:59] Axel Delvalle compro el negocio ID: 31.
+[2018/4/20 - 4:42:3] Axel Delvalle ha vendido el negocio ID: 31 a El Estado.
+[2018/4/22 - 7:18:19] Miguel Salvatore compro el negocio ID: 31.
+[2018/4/22 - 14:2:4] Agustin Chacon compro el negocio ID: 41.
+[2018/4/22 - 19:2:29] Elizabeth Spopovich ha vendido el negocio ID: 20 a El Estado.
+[2018/4/22 - 21:19:12] Elizabeth Spopovich compro el negocio ID: 11.
+[2018/4/23 - 20:9:48] Isaac Rufino compro el negocio ID: 6.
+[2018/4/25 - 17:37:39] Administración: Miguel Salvatore ha vendido el negocio de Miguel_Salvatore. (ID 27)
+[2018/4/25 - 17:38:28] Miguel Salvatore compro el negocio ID: 27.
+[2018/4/25 - 17:39:1] Miguel Salvatore ha vendido el negocio ID: 27 a El Estado.
+[2018/4/25 - 17:39:32] Administración: Miguel Salvatore ha establecido una ID de negocio 27 la puerta $1.
+[2018/4/25 - 17:39:56] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/25 - 17:41:26] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/25 - 17:42:8] Administración: Miguel Salvatore ha vendido el negocio de Miguel_Salvatore. (ID 42)
+[2018/4/25 - 17:42:15] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/25 - 17:42:24] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/25 - 17:43:5] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/25 - 17:43:20] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/25 - 17:43:29] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/25 - 17:43:36] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/25 - 17:44:7] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/25 - 17:44:28] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/25 - 17:44:51] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/25 - 17:44:52] Mohamed Alhadabi compro el negocio ID: 27.
+[2018/4/25 - 17:45:0] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/25 - 17:45:16] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/25 - 17:45:19] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/25 - 17:45:27] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/25 - 17:45:33] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/25 - 17:45:55] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/25 - 17:45:58] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/25 - 17:50:26] Administración: Miguel Salvatore ha establecido una ID de negocio 1 la puerta $1.
+[2018/4/25 - 17:50:34] Administración: Miguel Salvatore ha establecido una ID de negocio 1 la puerta $0.
+[2018/4/25 - 17:50:45] Administración: Miguel Salvatore ha establecido una ID de negocio 2 la puerta $1.
+[2018/4/27 - 22:52:43] Johan Garzon compro el negocio ID: 32.
+[2018/4/28 - 2:6:52] Mohamed Alhadabi ha vendido el negocio ID: 27 a El Estado.
+[2018/4/28 - 16:16:20] Miguel Colmenares compro el negocio ID: 27.
+[2018/4/29 - 16:3:48] Administración: Oscar Pinto ha vendido el negocio de Brayan_Osorio. (ID 37)
+[2018/4/29 - 16:4:22] Brayan Osorio compro el negocio ID: 37.
+[2018/4/29 - 17:9:23] Isaac Rufino ha vendido el negocio ID: 6 a El Estado.
+[2018/4/29 - 20:29:29] Isaac Rufino compro el negocio ID: 23.
+[2018/4/30 - 18:20:49] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/30 - 18:21:8] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/30 - 18:21:32] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/30 - 18:21:42] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/30 - 18:21:49] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/30 - 18:22:0] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/30 - 18:22:16] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/30 - 18:22:21] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/30 - 18:22:26] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/30 - 18:22:30] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/30 - 18:22:43] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/30 - 18:22:46] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/30 - 18:22:52] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/30 - 18:22:55] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/30 - 18:23:9] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/30 - 18:23:16] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/30 - 18:23:34] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/4/30 - 18:23:38] Administración: Miguel Salvatore ha creado el negocio ID 43.
+[2018/4/30 - 18:23:45] Miguel Salvatore compro el negocio ID: 43.
+[2018/4/30 - 18:24:3] Miguel Salvatore ha vendido el negocio ID: 43 a El Estado.
+[2018/4/30 - 18:24:12] Miguel Salvatore compro el negocio ID: 42.
+[2018/4/30 - 18:24:29] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/4/30 - 18:24:55] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/4/30 - 18:24:56] Administración: Miguel Salvatore ha eliminado el negocio ID 43.
+[2018/5/1 - 16:48:6] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/1 - 16:48:9] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/1 - 16:48:24] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/1 - 16:48:32] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/1 - 16:48:40] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/1 - 16:48:43] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/1 - 16:49:26] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/1 - 16:49:32] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/1 - 16:49:39] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/1 - 16:49:46] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/1 - 16:50:15] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/1 - 16:50:21] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/1 - 16:50:26] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/1 - 16:50:34] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/1 - 20:7:26] Asaff Khatab compro el negocio ID: 10.
+[2018/5/2 - 2:19:31] Administración: Miguel Salvatore ha eliminado el negocios de Miguel_Salvatore. (ID 42)
+[2018/5/2 - 2:19:43] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:20:27] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:20:34] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:21:0] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:21:11] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:21:15] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:21:19] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:21:35] Administración: Miguel Salvatore ha eliminado el negocios de Miguel_Salvatore. (ID 42)
+[2018/5/2 - 2:21:49] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:21:53] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:21:59] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:22:20] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:22:26] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:22:30] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:22:35] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:22:43] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:22:46] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:22:49] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:22:56] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:23:17] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:23:22] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:23:29] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:23:34] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:23:48] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:23:51] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:23:56] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:24:2] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:24:17] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:24:21] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:24:27] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:24:31] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:24:43] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:24:46] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:24:49] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:24:55] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:25:6] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:25:10] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:25:17] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:25:24] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:25:38] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:25:43] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:34:35] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:35:12] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:35:24] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:35:34] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:35:50] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:35:57] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:35:58] Administración: Brayan Osorio ha creado el negocio ID 43.
+[2018/5/2 - 2:36:9] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:36:12] Brayan Osorio compro el negocio ID: 43.
+[2018/5/2 - 2:36:15] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:36:32] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:36:36] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:36:51] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:36:57] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:37:3] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:37:4] Brayan Osorio ha vendido el negocio ID: 43 a El Estado.
+[2018/5/2 - 2:37:8] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:37:18] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:37:42] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:37:44] Administración: Brayan Osorio ha eliminado el negocio ID 43.
+[2018/5/2 - 2:38:0] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:38:4] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:38:6] Administración: Brayan Osorio ha creado el negocio ID 43.
+[2018/5/2 - 2:38:15] Brayan Osorio compro el negocio ID: 43.
+[2018/5/2 - 2:38:15] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:38:22] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:38:32] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:38:34] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:38:43] Brayan Osorio ha vendido el negocio ID: 43 a El Estado.
+[2018/5/2 - 2:38:51] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:38:51] Administración: Brayan Osorio ha eliminado el negocio ID 43.
+[2018/5/2 - 2:38:56] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:39:1] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:39:6] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:39:6] Administración: Brayan Osorio ha creado el negocio ID 43.
+[2018/5/2 - 2:39:12] Brayan Osorio compro el negocio ID: 43.
+[2018/5/2 - 2:39:19] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:39:25] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 2:39:30] Brayan Osorio ha vendido el negocio ID: 43 a El Estado.
+[2018/5/2 - 2:39:33] Administración: Miguel Salvatore ha creado el negocio ID 42.
+[2018/5/2 - 2:39:39] Miguel Salvatore compro el negocio ID: 42.
+[2018/5/2 - 2:39:41] Administración: Brayan Osorio ha eliminado el negocio ID 43.
+[2018/5/2 - 2:39:59] Miguel Salvatore ha vendido el negocio ID: 42 a El Estado.
+[2018/5/2 - 2:40:4] Administración: Miguel Salvatore ha eliminado el negocio ID 42.
+[2018/5/2 - 23:28:57] Ferney Ramos compro el negocio ID: 19.
+[2018/5/4 - 18:1:7] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:2:14] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:3:2] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:3:8] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:3:38] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:3:49] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:4:2] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:4:18] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:4:33] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:4:48] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:4:57] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:5:4] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:5:26] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:5:45] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:6:2] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:6:13] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:6:35] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:6:52] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:7:36] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:7:44] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:8:3] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:8:9] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:8:14] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:8:21] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:8:32] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:8:40] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:8:47] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:9:39] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:9:58] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:10:6] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:10:17] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:10:24] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:11:8] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:11:14] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:13:22] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:13:30] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:13:56] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:14:2] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:14:8] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:14:13] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:14:33] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:14:38] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:15:30] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:15:41] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:15:57] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:16:10] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:16:15] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:16:20] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:16:35] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:16:39] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:16:46] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:17:3] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:17:46] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:18:15] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:19:39] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:19:45] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:20:38] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:21:1] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:21:6] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:21:13] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:21:36] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:21:46] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:21:51] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:21:59] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:22:22] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:23:2] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:23:22] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:23:28] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:24:5] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:24:13] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:24:18] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:24:29] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:25:6] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:25:12] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:25:19] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:25:31] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:25:50] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:25:55] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/4 - 18:26:7] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/4 - 18:26:12] Brayan Osorio compro el negocio ID: 42.
+[2018/5/4 - 18:26:28] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/4 - 18:26:39] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:31:16] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:31:24] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:31:44] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:31:51] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:32:0] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:32:9] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:32:28] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:32:36] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:32:42] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:32:47] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:33:1] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:33:6] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:33:10] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:33:17] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:33:33] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:33:37] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:33:46] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:33:52] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:34:9] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:34:17] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:34:22] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:34:30] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:34:43] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:34:50] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:34:54] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:35:9] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:35:26] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:35:36] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:35:43] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:35:52] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:36:8] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:36:23] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:36:29] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:36:37] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:36:59] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:37:10] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:37:15] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:37:24] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:37:46] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:37:53] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:37:58] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:38:9] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:38:32] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:38:39] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:38:49] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:38:55] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:39:15] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:39:20] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:39:25] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:39:31] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:39:51] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:39:56] Administración: Brayan Osorio ha eliminado el negocio ID 42.
+[2018/5/5 - 17:40:1] Administración: Brayan Osorio ha creado el negocio ID 42.
+[2018/5/5 - 17:40:7] Brayan Osorio compro el negocio ID: 42.
+[2018/5/5 - 17:41:43] Brayan Osorio ha vendido el negocio ID: 42 a El Estado.
+[2018/5/5 - 17:41:50] Administración: Brayan Osorio ha eliminado el negocio ID 42.

@@ -1,0 +1,11 @@
+Owner=Dios_Injusto
+vip=1
+model=462
+x=547.379089
+y=-1283.807128
+z=16.808853
+rot=286.193969
+col1=0
+col2=0
+time=1
+ID=251

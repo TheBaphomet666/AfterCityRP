@@ -1,0 +1,11 @@
+Owner=Esteban_Milano
+vip=0
+model=542
+x=531.780395
+y=-1288.700073
+z=17.732089
+rot=277.205810
+col1=0
+col2=0
+time=1
+ID=273
